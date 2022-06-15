@@ -1,0 +1,26 @@
+segment_sources:
+  I07C8470F:
+    type: origin_type
+    relation: translation
+    language: en
+  ID776D4ED:
+    type: origin_type
+    relation: translation
+    language: pt
+  I13151461:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ee3e6a1948d641ea96f2c1d21d822259:
+    I07C8470F: ca09b96ec2eb4edaaf0c9a185d2d91b0
+    ID776D4ED: 774239e3b9cc437395fd021d4625e25b
+    I13151461: 8be7920125a34b7e8ec78df81bbf5b3c
+  8d6e6fcf52814ed6936f83cbd22edf81:
+    I07C8470F: ad6997b761dc4321a8b56db5f5eb1843
+    ID776D4ED: 6dc416549050493083e89263dc973701
+    I13151461: 2884550a32fe4842a98f8776211d1144
+  35ee458308c145448d4513e2c88d3ddb:
+    I07C8470F: e6ed6f644f2b4efaa5ff00170e94d5b9
+    ID776D4ED: eea38b614efd4104920a9c7c4019e5fc
+    I13151461: 5821e395bb6b41da93284c03cba9147e
